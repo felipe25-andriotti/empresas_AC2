@@ -16,13 +16,13 @@ Script SQL:
 ![Empresa](Empresas%203.png)
 
 Script SQL:
-[SQL](Empresas%203.sql)
+[SQL](Empresa%203.sql)
 
 ## 4.Crie uma view que mostra todos os produtos com estoque abaixo do mínimo;
 ![Empresa](Empresas%204.png)
 
 Script SQL:
-[SQL](Empresas%204.sql)
+[SQL](Empresa%204.sql)
 
 ## 5.Adicione o campo data de validade. Insira novos produtos com essa informação;
 ![Empresa](Empresas%205.png)
