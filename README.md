@@ -10,34 +10,34 @@ Script SQL:
 ![Empresa](Empresas%202.png)
 
 Script SQL:
-[SQL](Empresa%202.sql)
+[SQL](Empresas%202.sql)
 
 ## 3.Crie uma view que mostra todos os produtos e seus respectivos fornecedores e marcas;
 ![Empresa](Empresas%203.png)
 
 Script SQL:
-[SQL](Empresa%203.sql)
+[SQL](Empresas%203.sql)
 
 ## 4.Crie uma view que mostra todos os produtos com estoque abaixo do mínimo;
 ![Empresa](Empresas%204.png)
 
 Script SQL:
-[SQL](Empresa%204.sql)
+[SQL](Empresas%204.sql)
 
 ## 5.Adicione o campo data de validade. Insira novos produtos com essa informação;
 ![Empresa](Empresas%205.png)
 
 Script SQL:
-[SQL](Empresa%205.sql)
+[SQL](Empresas%205.sql)
 
 ## 6.Crie uma view que mostra todos os produtos e suas respectivas marcas com validade vencida;
 ![Empresa](Empresas%206.png)
 
 Script SQL:
-[SQL](Empresa%206.sql)
+[SQL](Empresas%206.sql)
 
 ## 7.Selecionar os produtos com preço acima da média.
 ![Empresa](Empresas%207.png)
 
 Script SQL:
-[SQL](Empresa%207.sql)
+[SQL](Empresas%207.sql)
